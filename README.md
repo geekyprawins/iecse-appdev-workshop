@@ -1,16 +1,16 @@
-# timer_app
+# Timer App - Demo
+A simple Flutter app created for demo in IECSE App Dev Workshop.
 
-A timer app for IECSE workshop
+## Link to the PPT used:
+https://www.canva.com/design/DAE4HjzRQ1s/Pf0D_X2D2uCvSnk3EJ5AyA/view?utm_content=DAE4HjzRQ1s&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent
 
-## Getting Started
+## References:
+Flutter : https://flutter.dev/
+Dart : https://dart.dev/
+DartPad : https://dartpad.dev/
+Google Fonts: https://fonts.google.com/
+Dart Packages: https://pub.dev/
 
-This project is a starting point for a Flutter application.
+*Happy coding :)*
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
